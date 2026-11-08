@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+sessions/
+.DS_Store
+__pycache__/
+*.py[cod]
